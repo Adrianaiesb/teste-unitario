@@ -1,0 +1,19 @@
+{
+  "name": "teste-unitario",
+  "version": "1.0.0",
+  "description": "testando o Jest aula 03Maio23",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianaiesb/teste-unitario.git"
+  },
+  "author": "Adriana Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrianaiesb/teste-unitario/issues"
+  },
+  "homepage": "https://github.com/Adrianaiesb/teste-unitario#readme"
+}
